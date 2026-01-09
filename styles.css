@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
-.even{
+/* .even{
 	color:rgb(255,0,0);
-}
+} */
+ .radio-group label:nth-of-type(even) {
+            color: red;
+        }
