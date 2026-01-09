@@ -3,5 +3,5 @@
 	color:rgb(255,0,0);
 } */
  .radio-group label:nth-of-type(even) {
-            color: red;
+            color: rgb(255,0,0);
         }
